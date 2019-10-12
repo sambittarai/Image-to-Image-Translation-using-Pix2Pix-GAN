@@ -2,3 +2,6 @@
 Using pix2pix GAN to do Image translation from MRI magnitude image to its corresponding phase Image
 
 **Ongoing Project**
+
+**MRI Magnitude Image**
+![](MRI_Magnitude.png)
