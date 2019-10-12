@@ -15,7 +15,15 @@ Some images from the dataset:-
 ![](MRI_Images/p1.png)  ![](MRI_Images/p2.png)  ![](MRI_Images/p3.png)
 
 
-**As a sanity check I first train the network on 1/10th of the dataset that I have, and for the sake of convinience I also resized the image to (256,256), and the results are the following**
+
+
+
+![](trial_predictions/m1.png) ![](trial_predictions/p1.png) ![](trial_predictions/pr1.png)
+
+![](trial_predictions/m2.png) ![](trial_predictions/p2.png) ![](trial_predictions/pr2.png)
+
+
+**Although I won't be resizing the images when training the final network (because some information may get lost), I resized the images here just to see how well the network is performing**
 
 
 
