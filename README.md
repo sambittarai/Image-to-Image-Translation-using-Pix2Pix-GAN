@@ -30,12 +30,3 @@ Some images from the dataset:-
 ![](trial_predictions/pr1.png)    ![](trial_predictions/pr2.png)
 
   
-
-
-**Although I won't be resizing the images when training the final network (because some information may get lost), I resized the images here just to see how well the network is performing**
-
-
-
-
-
-**Remaining parts of the project is expected to be uploaded soon (by 21st October)**
