@@ -1,6 +1,10 @@
 # Pix2Pix-
 Using pix2pix GAN to do Image translation from MRI magnitude image to its corresponding phase Image
 
+## Requirements:
+  * Python >= 3.5
+  * Keras
+
 **Ongoing Project**
 
 Some images from the dataset:-
