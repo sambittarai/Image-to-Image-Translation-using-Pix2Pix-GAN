@@ -5,9 +5,6 @@ Using pix2pix GAN to do Image translation from MRI magnitude image to its corres
   * Python >= 3.5
   * Keras
 
-**Ongoing Project**
-
-Some images from the dataset:-
 
 **MRI Magnitude Image**
 
