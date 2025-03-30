@@ -2,7 +2,7 @@
 #SBATCH --time=1:00:00
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
-#SBATCH --gres=gpu:1
+#SBATCH --gres=gpu:2
 #SBATCH --partition=gpu
 #SBATCH --job-name="pix2pixtest"
 #SBATCH --mail-user=sambitarai17@gmail.com
